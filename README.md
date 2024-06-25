@@ -1,5 +1,6 @@
 # Welcome to Jethro Guerrier's GitHub Profile! 👋
 <h3 align="center">A motivated Software Developer</h3>
+<a href="https://www.linkedin.com/in/jethro-g-043b323a/"><img src="https://media.licdn.com/dms/image/C5612AQFyLTzp0XYdYQ/article-cover_image-shrink_600_2000/0/1594931019245?e=2147483647&v=beta&t=mWlmTAEj8BI0x5s-rgUX34dyfvvtY4N5jss755_m5s8" width ="1000" height="200"/></a>
 
 ## About Me
 I am a motivated software developer with a passion for creating impactful solutions using a variety of technologies. I have experience in web development with HTML, CSS, JavaScript, and React, as well as backend development using Python with Flask framework. My skills also include database management with SQL Alchemy and proficiency in C++ for system-level programming.
@@ -26,14 +27,16 @@ Here are a few projects I've worked on:
 ## Technologies I Work With
 <div align="d-flex">
         <div align="center">
-          <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML5" width="50" height="50"/>
-          <img src="https://delta-dev-software.fr/wp-content/uploads/2024/05/CSS-Logo.png" alt="CSS3" width="50" height="50"/>
-          <img src="https://multishoring.com/wp-content/uploads/2024/04/JavaScript-Symbol.png" alt="JavaScript" width="50" height="50"/>
-          <img src="https://media.dev.to/cdn-cgi/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F096baapsqqt9fks0us99.png" alt="React" width="50" height="50"/>
-          <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" alt="Python" width="50" height="50"/>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" alt="Flask" width="50" height="50"/>
-          <img src="https://miro.medium.com/v2/resize:fit:836/1*y8tHYAsB8o43_9lPx0hzbw.png" alt="SQL Alchemy" width="50" height="50"/>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="50" height="50"/>
+          <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png" width="105" height="40" />
+          <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/css_button_icon_151935.png" width="105" height="40" />
+          <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bootstrap_button_icon_151958.png" width="125" height="40"/>
+          <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png" width="125" height="40" />
+          <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/react_button_icon_151947.png" width="105" height="40" />
+          <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" width="125" height="40" />
+          <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pocoo_flask_logo_icon_168045.png" width="125" height="50" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/SQLAlchemy.svg" width="105" height="40" />
+           <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="125" height="40" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C++"  width="85" height="40"/>
         </div>
           <div align = "Center">
                   <img src="https://media.licdn.com/dms/image/C5612AQFyLTzp0XYdYQ/article-cover_image-shrink_600_2000/0/1594931019245?e=2147483647&v=beta&t=mWlmTAEj8BI0x5s-rgUX34dyfvvtY4N5jss755_m5s8" alt="C++" width="200" height="250"/>
